@@ -1,5 +1,5 @@
 
-import 'package:countercubit/arithmetic_cubit_view.dart';
+import 'package:countercubit/view/arithmetic_cubit_view.dart';
 import 'package:countercubit/cubit/arithmetic_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
